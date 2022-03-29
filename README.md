@@ -5,7 +5,7 @@ Heavy inspiration from https://github.com/ZackFreedman/MiRage
 
 WIP Layout
 -----------
-![Potential Layout](https://ibb.co/5YWbqn4)
+![Potential Layout](https://i.ibb.co/ZH6qyYX/Screen-Shot-2022-03-29-at-4-02-26-PM.png)
 
 
 
