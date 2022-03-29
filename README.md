@@ -7,7 +7,7 @@ Design Goals
 ------------
 - Implentation of a TBD microcontroller with a TBD IO expander, to avoid a traditional matrix layout
 - Allow for lower profile mechanical switches
-- An ortholinear layout that includes an actually 10-key keypad (not the standard 
+- An ortholinear layout that includes a 12-key keypad
 - Implementation of a 1.54 inch EPD module for monitoring/text/image display 
 
 
